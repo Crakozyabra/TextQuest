@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="questQuestionGame:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe6830d5-0091-420d-9158-329f333b8b0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questquestiongame/PrologueServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questquestiongame/QuestionsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/bottomPagePath.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/endgameform.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/prologue.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/statistic.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/upperPagePath.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/youlose.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/youwin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrologueServletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/QuestionsServletTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FFuj4L1r9CcDHut4aYfKrBtuzY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\myPrograms\questQuestionGame\src\main\webapp" />
+      <recent name="C:\myPrograms\questQuestionGame\src\main\webapp\gamesview" />
+      <recent name="C:\myPrograms\questQuestionGame\src\main\webapp\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.64" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/prologue" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="questQuestionGame:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="42618c79-5145-4092-bd7b-bde0b4b3ba8b" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50448" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="questQuestionGame:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe6830d5-0091-420d-9158-329f333b8b0f" name="Changes" comment="" />
+      <created>1664100286063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664100286063</updated>
+      <workItem from="1664100287554" duration="1666000" />
+      <workItem from="1664106268908" duration="44000" />
+      <workItem from="1664106426336" duration="3834000" />
+      <workItem from="1664111601013" duration="217000" />
+      <workItem from="1664111879928" duration="8000" />
+      <workItem from="1664111933497" duration="270000" />
+      <workItem from="1664112244941" duration="73000" />
+      <workItem from="1664112333036" duration="533000" />
+      <workItem from="1664112891384" duration="1321000" />
+      <workItem from="1664114292026" duration="2071000" />
+      <workItem from="1664183247837" duration="159000" />
+      <workItem from="1664186537721" duration="105000" />
+      <workItem from="1664190254289" duration="605000" />
+      <workItem from="1664191170681" duration="1541000" />
+      <workItem from="1664193963432" duration="22000" />
+      <workItem from="1664194085460" duration="100000" />
+      <workItem from="1664194270653" duration="79000" />
+      <workItem from="1664194415226" duration="860000" />
+      <workItem from="1664196147233" duration="3306000" />
+      <workItem from="1664199950113" duration="150000" />
+      <workItem from="1664200133085" duration="316000" />
+      <workItem from="1664204614140" duration="613000" />
+      <workItem from="1664205301485" duration="400000" />
+      <workItem from="1664205831671" duration="1421000" />
+      <workItem from="1664207417350" duration="1690000" />
+      <workItem from="1664209208659" duration="50000" />
+      <workItem from="1664209298189" duration="45000" />
+      <workItem from="1664209456844" duration="89000" />
+      <workItem from="1664209561280" duration="419000" />
+      <workItem from="1664210803211" duration="1142000" />
+      <workItem from="1664212009134" duration="1129000" />
+      <workItem from="1664216026964" duration="243000" />
+      <workItem from="1664216332944" duration="123000" />
+      <workItem from="1664217791125" duration="344000" />
+      <workItem from="1664218414313" duration="1910000" />
+      <workItem from="1664268836009" duration="3094000" />
+      <workItem from="1664276266797" duration="33000" />
+      <workItem from="1664276311968" duration="1140000" />
+      <workItem from="1664280525544" duration="8000" />
+      <workItem from="1664280693576" duration="51000" />
+      <workItem from="1664281090804" duration="2034000" />
+      <workItem from="1664287010050" duration="1460000" />
+      <workItem from="1664292222857" duration="187000" />
+      <workItem from="1664292425787" duration="94000" />
+      <workItem from="1664292559207" duration="57000" />
+      <workItem from="1664292651607" duration="610000" />
+      <workItem from="1664304273659" duration="1403000" />
+      <workItem from="1664354183674" duration="1075000" />
+      <workItem from="1664355335035" duration="61000" />
+      <workItem from="1664355433813" duration="300000" />
+      <workItem from="1664355893108" duration="170000" />
+      <workItem from="1664357472641" duration="16000" />
+      <workItem from="1664363697809" duration="427000" />
+      <workItem from="1664364165215" duration="200000" />
+      <workItem from="1664364674432" duration="544000" />
+      <workItem from="1664365356118" duration="2399000" />
+      <workItem from="1664367866476" duration="1350000" />
+      <workItem from="1664379013709" duration="5193000" />
+      <workItem from="1664388621955" duration="650000" />
+      <workItem from="1664389867435" duration="4440000" />
+      <workItem from="1664397086820" duration="1579000" />
+      <workItem from="1664450816671" duration="2673000" />
+      <workItem from="1664453550185" duration="3559000" />
+      <workItem from="1664461328145" duration="494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

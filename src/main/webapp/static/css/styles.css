@@ -1,0 +1,13 @@
+.padding-left{
+    padding-left: 70px;
+}
+
+.statistic{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+div.padding-inside > div {
+    padding-bottom: 7px;
+}
