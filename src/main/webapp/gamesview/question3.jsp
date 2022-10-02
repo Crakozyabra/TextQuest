@@ -5,12 +5,12 @@
     <input type="hidden" name="formname" value="question3"/>
     <div class="padding-inside">
         <div>
-            <input type="radio" id="choice1" name="choice" value="leftBranch" checked>
+            <input type="radio" id="choice1" name="choice" value="FormWithLeftBranchQuestionResponse" checked>
             <label for="choice1">Рассказать правду о себе</label>
         </div>
 
         <div>
-            <input type="radio" id="choice2" name="choice" value="rightBranch">
+            <input type="radio" id="choice2" name="choice" value="FormWithRightBranchQuestionResponse">
             <label for="choice2">Солгать о себе</label>
         </div>
 

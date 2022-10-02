@@ -9,32 +9,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe6830d5-0091-420d-9158-329f333b8b0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/questquestiongame/PrologueServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/questquestiongame/QuestionsServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/bottomPagePath.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/endgameform.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/prologue.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/statistic.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/upperPagePath.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/youlose.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/youwin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PrologueServletTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/QuestionsServletTest.java" afterDir="false" />
+    <list default="true" id="fe6830d5-0091-420d-9158-329f333b8b0f" name="Changes" comment="First commit for start without test.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questquestiongame/PageForwardable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/questquestiongame/PrologueServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/questquestiongame/PrologueServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/questquestiongame/QuestionsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/questquestiongame/QuestionsServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/gamesview/endgameform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/endgameform.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/gamesview/question1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/gamesview/question2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/gamesview/question3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/gamesview/question3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PrologueServletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrologueServletTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/QuestionsServletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/QuestionsServletTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +34,7 @@
         <option value="CSS File" />
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -71,19 +59,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\myPrograms\questQuestionGame\src\main\webapp" />
@@ -91,9 +79,56 @@
       <recent name="C:\myPrograms\questQuestionGame\src\main\webapp\static" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.64">
+    <configuration name="PrologueServletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="questQuestionGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrologueServletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrologueServletTest.forwardPageTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="questQuestionGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrologueServletTest" />
+      <option name="METHOD_NAME" value="forwardPageTest(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionsServletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="questQuestionGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuestionsServletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionsServletTest.forwardPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="questQuestionGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuestionsServletTest" />
+      <option name="METHOD_NAME" value="forwardPageTest(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionsServletTest.solveQuestionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="questQuestionGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuestionsServletTest" />
+      <option name="METHOD_NAME" value="solveQuestionTest(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.64" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/prologue" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="questQuestionGame:war exploded">
@@ -180,6 +215,23 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.PrologueServletTest" />
+      <item itemvalue="JUnit.PrologueServletTest.forwardPageTest (3)" />
+      <item itemvalue="JUnit.QuestionsServletTest" />
+      <item itemvalue="JUnit.QuestionsServletTest.forwardPageTest" />
+      <item itemvalue="JUnit.QuestionsServletTest.solveQuestionTest" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.64" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QuestionsServletTest.solveQuestionTest" />
+        <item itemvalue="JUnit.PrologueServletTest" />
+        <item itemvalue="JUnit.QuestionsServletTest" />
+        <item itemvalue="JUnit.PrologueServletTest.forwardPageTest (3)" />
+        <item itemvalue="JUnit.QuestionsServletTest.forwardPageTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -252,8 +304,19 @@
       <workItem from="1664397086820" duration="1579000" />
       <workItem from="1664450816671" duration="2673000" />
       <workItem from="1664453550185" duration="3559000" />
-      <workItem from="1664461328145" duration="494000" />
+      <workItem from="1664461328145" duration="13263000" />
+      <workItem from="1664625720119" duration="5152000" />
+      <workItem from="1664637846778" duration="16411000" />
+      <workItem from="1664695191181" duration="10467000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit for start without test.">
+      <created>1664462034557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664462034558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,5 +332,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit for start without test." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit for start without test." />
   </component>
 </project>
