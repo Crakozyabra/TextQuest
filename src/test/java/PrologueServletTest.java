@@ -12,7 +12,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
-import java.lang.reflect.InvocationTargetException;
 
 import static org.mockito.Mockito.*;
 
@@ -22,12 +21,12 @@ public class PrologueServletTest {
 
     @ParameterizedTest
     @CsvSource({
-            "leftBranch, /gamesview/prologue.jsp, endgameFormLeftBranch",
-            "rightBranch, /gamesview/question1.jsp, endgameFormRightBranch"
+            "FormWithLeftBranchQuestionResponse, /gamesview/prologue.jsp, endgameFormLeftBranch",
+            "FormWithRightBranchQuestionResponse, /gamesview/question1.jsp, endgameFormRightBranch"
     })
     public void forwardPageTest(String questionResponseBranchDirection,
                                 String pathToJSP,
-                                String functionExceptReturn) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException, ServletException, IOException {
+                                String functionExceptReturn) throws ServletException, IOException {
         PrologueServlet prologueServlet = new PrologueServlet();
         Integer gamesQuanity = 0;
         HttpServletRequest request = mock(HttpServletRequest.class);
@@ -42,7 +41,6 @@ public class PrologueServletTest {
         when(request.getServletContext()).thenReturn(servletContext);
         when(request.getServletContext().getRequestDispatcher(pathToJSP)).thenReturn(requestDispatcher);
         Assertions.assertEquals(functionExceptReturn, prologueServlet.forwardPage(request,response));
-        prologueServlet.forwardPage(request,response);
     }
 
 }
